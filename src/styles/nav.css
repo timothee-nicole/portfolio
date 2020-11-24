@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
+
+.nav {
+    display: flex;
+    justify-content: flex-end;
+}
+.logo {
+    display: flex;
+    margin: 10px 5px;
+}
+
+
+.nav-main {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #002395;
+    background: linear-gradient(to bottom, #002395 0%, #001486 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #002395), color-stop(100%, #001486));
+    background: -webkit-linear-gradient(top, #002395 0%, #001486 100%);
+    background: -moz-linear-gradient(top, #002395 0%, #001486 100%);
+    background: -o-linear-gradient(top, #002395 0%, #001486 100%);
+    background: -ms-linear-gradient(top, #002395 0%, #001486 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#002395', endColorstr='#001486', GradientType=0);
+    box-shadow: inset 0 1px 0 #0F32A4;
+    -webkit-box-shadow: inset 0 1px 0 #0F32A4;
+    -moz-box-shadow: inset 0 1px 0 #0F32A4;
+    height: 60px;
+}
+.nav-link a {
+    text-decoration: none;
+    color: black;
+    margin: 10px 5px;
+    font-size: 20px;
+    background-color: rgba(255, 255, 255, 0.85);
+    border-bottom-right-radius: 8px;
+    border-top-left-radius: 8px;
+    padding: 5px 20px;
+    font-family: 'Bangers', cursive;
+}
+.nav-link a:hover {
+    cursor: pointer;
+    background-color: black;
+    color: whitesmoke;
+}

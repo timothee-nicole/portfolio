@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
+
+.project-card img {
+    width: 300px;
+    height: 200px;
+    object-fit: cover;
+    align-items: center;
+}
+
+.project-card {
+    display: flex;
+    height: 200px;
+    border: 1px solid black;
+    margin: 10px;
+}
+.project-description {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 5px;
+    font-family: 'Raleway', sans-serif;
+
+}
+
+.project-description h1 {
+    font-size: 20px;
+    margin: 3px;
+}
+.project-description h2 {
+    font-size: 16px;
+    margin: 3px;
+}
+.project-description p {
+    font-size: 12px;
+    text-align: left;
+    margin: 3px;
+}
