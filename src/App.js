@@ -8,6 +8,7 @@ import NavMain from './Components/NavMain';
 import FooterMain from './Components/FooterMain';
 
 import Cv from './Pages/Cv';
+import About from './Pages/About';
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
         <Route exact path="/experience" component={Experiences} />
         <Route exact path="/cv" component={Cv} />
         <Route exact path="/project" component={Projects} />
+        <Route exact path="/about" component={About} />
       </Switch>
       <FooterMain />
     </div>

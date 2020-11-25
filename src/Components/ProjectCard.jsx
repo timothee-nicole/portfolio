@@ -22,9 +22,8 @@ const ProjectCard = (props) => {
             )} </p>
             </div>
 
-            <a href={project.link} target="_blank"><div>
-            See the Project !
-            </div></a>
+            <a href={project.link} target="_blank">Visit
+            </a>
         </div>
     )
 }

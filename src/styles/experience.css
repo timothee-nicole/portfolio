@@ -5,6 +5,7 @@
     flex-wrap: wrap;
     align-items: center;
     justify-content: space-evenly;
+    min-height: 70vh;
 }
 .arrow-btn {
     padding: 20px 24px;
@@ -28,6 +29,7 @@
 .exp-card {
     border: 1px solid rgb(219, 219, 219);
     margin: 10px;
+    
     border-bottom-right-radius: 10px;
     border-bottom-left-radius: 10px;
     /* background-color: hotpink; */

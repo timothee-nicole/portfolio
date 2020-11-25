@@ -46,9 +46,10 @@ export default class Experiences extends Component {
                         return <ExperienceCard company={elem} key="i" />
                     })} */}
                     <div onClick={this.handleDecrement} className="arrow-btn"><i class="fas fa-arrow-left" ></i></div>
-                    {this.state.slide !== this.state.limit ? <><ExperienceCard company={experienceArr[this.state.slide]} />
+                    <div style={{display: "flex"}}>{this.state.slide !== this.state.limit ? <><ExperienceCard company={experienceArr[this.state.slide]} />
                     <ExperienceCard company={experienceArr[this.state.slide+1]} /></> : <><ExperienceCard company={experienceArr[this.state.slide]} />
                     <ExperienceCard company={experienceArr[0]} /></> }
+                    </div>
                     <div onClick={this.handleIncrement} className="arrow-btn"><i class="fas fa-arrow-right"></i></div>
                          
                 {/* </Slider> */}

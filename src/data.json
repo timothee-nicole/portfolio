@@ -148,5 +148,97 @@
             "image": "./images/ekam.jpg",
             "link": "https://ekam-games.herokuapp.com/"
         }
+    },
+    "passion": {
+        "amethyste": {
+            "name": "Amethyst",
+            "color": "purple",
+            "images": "./images/amethyste.jpg"
+        },
+        "aragonite": {
+            "name": "Aragonite",
+            "color": "brown",
+            "images":"./images/aragonite.jpg"
+        },
+        "malachite": {
+            "name": "Malachite",
+            "color": "green",
+            "images":"./images/malachite.jpg"
+        },
+        "bornite": {
+            "name": "Bornite",
+            "color": "Blue",
+            "images":"./images/bornite.jpg"
+        },
+        "gypse": {
+            "name": "Honey Gypsum",
+            "color": "brown",
+            "images":"./images/gypse.jpg"
+        },
+        "marcassite": {
+            "name": "Marcasite",
+            "color": "grey",
+            "images":"./images/marcassite.jpg"
+        },
+        "opale": {
+            "name": "Opal",
+            "color": "lightblue",
+            "images":"./images/opale.jpg"
+        },
+        "quartz": {
+            "name": "Quartz",
+            "color": "grey",
+            "images":"./images/quartz.jpg"
+        },
+        "rose": {
+            "name": "Sand Roses",
+            "color": "brown",
+            "images":"./images/rose.jpg"
+        },
+        "tourmaline": {
+            "name": "Tourmaline",
+            "color": "green",
+            "images":"./images/tourmaline.jpg"
+        },
+        "berlin": {
+            "name": "Berlin, Obama",
+            "color": "black",
+            "images":"./images/berlin.jpg"
+        },
+        "templehof": {
+            "name": "Berlin, TempelHof Airport",
+            "color": "black",
+            "images":"./images/templehof.jpg"
+        }, 
+        "barcelona": {
+            "name": "Barcelona, Skate Park",
+            "color": "black",
+            "images":"./images/barcelona.jpg"
+        },
+        "lisbon": {
+            "name": "Lisbon, Train Station",
+            "color": "black",
+            "images":"./images/lisbon.jpg"
+        },
+        "ljubljana": {
+            "name": "Ljubljana, Metalkova",
+            "color": "black",
+            "images":"./images/Ljubljana.jpg"
+        },
+        "london": {
+            "name": "London, City",
+            "color": "black",
+            "images":"./images/london.jpg"
+        },
+        "paris": {
+            "name": "Paris, XVe",
+            "color": "black",
+            "images":"./images/paris.jpg"
+        },
+        "vilnius": {
+            "name": "Vilnius, Train Station",
+            "color": "black",
+            "images":"./images/vilnius.jpg"
+        }
     }
 }
