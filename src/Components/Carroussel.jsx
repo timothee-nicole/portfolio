@@ -34,11 +34,11 @@ export default class Carroussel extends Component {
     render() {
         let items = data.passion[this.props.data[this.state.index]]
         return (
-            <div>
-            <img src={items.images} alt={items.name} style={{width: "150px", height:"150px"}} />
-            <div style={{disply: "flex",  flexDirection:"row", justifyContent:'space-evenly'}}>
+            <div className="carousel">
+            <img src={items.images} alt={items.name} />
+            <div className="carousel-name">
                 <button onClick={this.handleDecrement}><i className="fas fa-arrow-left" ></i></button>
-                <span style={{color: items.color, fontSize:"16px", margin: "5px"}}>{items.name}</span>
+                <div style={{color: items.color}}>{items.name}</div>
                 <button onClick={this.handleIncrement}><i className="fas fa-arrow-right" ></i></button>
             </div>
             </div>

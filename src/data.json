@@ -10,11 +10,11 @@
             "images":"./images/disney.jpg",
             "mission": [
                 "Make sure everybody was safe in the pool", 
-                "Make sure the surrondings of the pool were clean and safe",
+                "Make sure the surroundings of the pool were clean and safe",
                 "Help clients when they have some questions",
                 "Deliver amazing experiences to guests"
             ], 
-            "achievement": ["Saved a kid from drowning"]
+            "achievement": ["Saved a kid from drowning", "Graduated by the Disney Resorts Team, for being a reliable Lifeguard "]
         },
         "adagio": {
             "name": "Groupe AccordHotel, Adagio ApartHotel",
@@ -26,7 +26,7 @@
             "images":"./images/adagio.png",
             "mission": [
                 "Welcoming Clients at the front desk", 
-                "Phonning campaign to acquire more clients and create partnership within the Calvados area",
+                "Phoning campaign to acquire more clients and create partnerships within the Calvados area",
                 "Help clients when they have some questions",
                 "Deliver amazing experiences to guests"
             ], 
@@ -44,14 +44,14 @@
             "countryCode": "pt",
             "images":"./images/tourscanner.jpg",
             "mission": [
-                "SEO optimized travel Blog Article Writting", 
-                "Mailing campaign to create partnerships with travel blogger in order write guests posts",
+                "SEO optimized travel Blog Article writing", 
+                "Mailing campaign to create partnerships with travel bloggers in order to write guests posts",
                 "Community Management on Facebook and Instagram"
             ], 
             "achievement": [
                 "I raised the community of an Instagram account from 0 to 1000", 
                 "I wrote 10 articles with two of more than 15,000 views", 
-                "The traffic of the website raised of about 300%"
+                "The traffic of the website increased by about 200%"
             ]
         },
         "eat5": {
@@ -66,14 +66,14 @@
                 "Management of weekly deliveries", 
                 "Stock Management",
                 "Delivery and order picker training",
-                "Creation of Marketin Calendar 2019",
-                "Phonning campaign to acquire more clients in Paris Area"
+                "Creation of Marketing Calendar 2019",
+                "Phoning campaign to acquire more clients in Paris Area"
             ], 
             "achievement": [
                 "I trained 2 order pickers and 4 delivery employees", 
-                "Continuous delivery with client raised of 100% within 3 months",
+                "Continuous delivery with clients 100% increase within 3 months",
                 "I acquired 10 clients",
-                "Stock Update every weeks according to our needs"
+                "Stock updates every week according to our needs"
             ]
         }, 
         "lecollectionist": {
@@ -93,7 +93,7 @@
             "achievement": [
                 "Managed a Google Ads account with 100+ campaigns", 
                 "managed +200 houses on 3 distribution platforms",
-                "I optimized the website SEO to raise the Organic traffic by 30%", 
+                "I optimized the website SEO to increase the Organic traffic by 30%", 
                 "+100% in sales after the crisis"
             ]
         },
@@ -101,14 +101,14 @@
             "name": "Les Entrepreneuriales",
             "duration": 6,
             "year": 2017,
-            "position": "Co-founder",
+            "position": "Student-Entrepreneur",
             "location": "Angers, Pays-de-la-Loire, France",
             "countryCode": "",
             "images":"./images/entrep.png",
             "mission": [
-                "Phonning campaign to CAC40 companies",
+                "Phoning campaign to CAC40 companies",
                 "Market research about light-therapy",
-                "Supllier research on light-therapy lamp"
+                "Suppliers research on light-therapy lamps"
             ], 
             "achievement": [
                 "Creation of a fake B2B company about Light-therapy and wellness in companies",
@@ -131,7 +131,7 @@
         "trip": {
             "name": "Trip & Karmeliet",
             "duration":1,
-            "description": "Full MERN Application, it was my final Project at Ironhack. The idea was to create a travel platform manager, where you can decide what you will do during the holiday, when, and at which price. The name is inspired from the famous beer Triple Karmeliet. I created this application on an idea I have been wanting to developp for a while after working at TourScanner, and thought it could be a great tool to add to their website in the future. The application is not responsive. To use the applicaiton you need to create an account, the password is encrypted",
+            "description": "Full MERN Application. It was my final Project at Ironhack. The idea was to create a travel platform managing tool, where you can decide what you will do during the holidays, when, and at which price. The name is inspired from the famous beer Triple Karmeliet. I created this application based on an idea I wanted to develop after working at TourScanner 2 years ago. I thought it could have been a great tool to add to their website in the future. The application is not responsive. To use the application you need to create an account. The password will be encrypted",
             "language": "JavaScript, ES6",
             "frontEnd": ["React.js", "Material UI", "MapBox", "react-router-dom", "react-DnD"],
             "backEnd": ["Node.js", "mongoDB", "mongoose", "express.js", "axios", "OpenTripMap API", "Amadeus API"],
@@ -141,7 +141,7 @@
         "ekam": {
             "name": "EKAM GAMES",
             "duration":1,
-            "description": "Back-end Application created with two other people at Ironhack (Vincent Proum & Maximilan Gruber). The idea was to create a video game platform where you can add into a list the video game you have, the one you finished and the one you desire. We wanted to create a copy of Mangacollec for videogames. The application is not really responsive. To use the applicaiton you need to create an account, the password is encrypted.",
+            "description": "Back-end Application created with two other people at Ironhack (Vincent Proum & Maximilan Gruber). The idea was to create a video game platform where you can add into a list the video game you have, the one you finished and the one you wish to have. We wanted to create a copy of Mangacollec for videogames. The application is not really responsive. To use the applicaiton you need to create an account. The password will be encrypted.",
             "language": "JavaScript, ES6",
             "frontEnd": ["HandleBars"],
             "backEnd": ["Node.js", "mongoose", "express.js", "mongoDB", "RawgAPI"],
@@ -201,7 +201,7 @@
             "images":"./images/tourmaline.jpg"
         },
         "berlin": {
-            "name": "Berlin, Obama",
+            "name": "Berlin, City Center",
             "color": "black",
             "images":"./images/berlin.jpg"
         },

@@ -1,25 +1,13 @@
 
 
-.App {
-  text-align: center;
-}
+
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
 
-.caroussel {
-  width: 150px;
-  height: 150px;
-  object-fit: cover;
-  object-position: 50% 10%;
-}
-.mineral-card {
-  height: 400px;
-  width: 300px;
-  border: 1px solid purple;
-}
+
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {

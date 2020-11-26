@@ -42,14 +42,14 @@
 .project-card a {
     color: whitesmoke;
     text-decoration: none;
-    background-color: #FF2400;
+    background-color: #FFAE00;
     margin: 5px;
-    border: 1px solid #FF2400;
+    border: 1px solid #FFAE00;
     border-radius: 5px;
     padding: 10px 20px;
 }
 
 .project-card a:hover {
     border: 1px solid white;
-    background-color: #ff2200b4;
+    background-color: #ffae00af;
 }

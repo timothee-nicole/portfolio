@@ -21,8 +21,8 @@ const ProjectCard = (props) => {
                 project.backEnd.length <=1 ? `${elem}` : i === project.backEnd.length ? ` and ${elem}` : `${elem}, `
             )} </p>
             </div>
-
-            <a href={project.link} target="_blank">Visit
+            <a href={project.link} target="_blank">
+                Visit
             </a>
         </div>
     )

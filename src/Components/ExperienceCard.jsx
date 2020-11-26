@@ -23,13 +23,13 @@ import data from '../data.json'
                     </section>
                     {isClicked && 
                     <section className="exp-description">
-                        <h3>My missions</h3>
+                        <h3>My Assignments</h3>
                         {company.mission.map((elem, i) => (
-                            <li key={i}>{elem}</li>
+                            <li key={i} className="mission">{elem}</li>
                         ))}
-                        <h3>My Accomplishment{company.achievement.length > 1 ? "s": ""}</h3>
+                        <h3>My Achievement{company.achievement.length > 1 ? "s": ""}</h3>
                         {company.achievement.map((elem, i) => (
-                            <li key={i}>{elem}</li>
+                            <li key={i} className="achievement">{elem}</li>
                         ))}
                     </section>
                     }
