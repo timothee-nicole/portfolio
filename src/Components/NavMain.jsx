@@ -6,12 +6,6 @@ export default function NavMain() {
     const [isMobile, setIsMobile] = useState(window.innerWidth <= 1000);
 
 
-    useEffect(() => {
-        console.log('toto')
-        return () => {  
-        }
-    })
-
 
     function handleMenu() {
         // console.log('toto')
@@ -24,15 +18,15 @@ export default function NavMain() {
            <NavLink exact to="/"><div className="logo"><img src="./images/logo.png" alt="logo" /></div></NavLink>
             <div className="nav">
                 {isMobile ? <div onClick={handleMenu}><i class="fas fa-bars" style={{color: "white", marginRight: "10px"}}></i>
-                </div> : <><div className="nav-link"><NavLink exact to="/experience">Experiences</NavLink></div>
-                <div className="nav-link"><NavLink exact to="/cv">CV</NavLink></div>
-                <div className="nav-link"><NavLink exact to="/project">Projects</NavLink></div></>}
+                </div> : <><div className="nav-link" ><NavLink exact to="/experience">Experiences</NavLink></div>
+                <div className="nav-link" ><NavLink exact to="/cv">CV</NavLink></div>
+                <div className="nav-link" ><NavLink exact to="/project">Projects</NavLink></div></>}
             </div>
         </div>
         <section id="phone-menu" className="hidden">
-            <li><NavLink exact to="/experience">Experiences</NavLink></li>
-            <li><NavLink exact to="/cv">CV</NavLink></li>
-            <li><NavLink exact to="/project">Projects</NavLink></li>
+            <li><NavLink exact to="/experience" onClick={handleMenu}>Experiences</NavLink></li>
+            <li><NavLink exact to="/cv" onClick={handleMenu}>CV</NavLink></li>
+            <li><NavLink exact to="/project" onClick={handleMenu}>Projects</NavLink></li>
         </section>
         </>
     )
