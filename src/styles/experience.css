@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
 
+.experience p {
+    font-family: 'Raleway', sans-serif;
+    font-size: 12px;
+}
+
 @media (min-width: 1001px) {
     .experience {
         display: flex;

@@ -19,7 +19,7 @@ import data from '../data.json'
                     <section onClick={handleClick} className="header-exp">
                     <img src={company.images} alt={company.name} style={{width: '300px'}}/>
                     <h1>{company.position}</h1>
-                    <h2><span class="flag-icon flag-icon-us"></span>{company.location}</h2>
+                    <h2>{company.location}</h2>
                     </section>
                     {isClicked && 
                     <section className="exp-description">

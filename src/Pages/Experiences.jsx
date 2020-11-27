@@ -67,6 +67,7 @@ export default class Experiences extends Component {
         console.log(this.state.slide)
         return (
             <div className="experience">
+            <p>Click the card to see more details</p>
                     <div onClick={this.handleDecrement} className="arrow-btn"><i class="fas fa-arrow-left" ></i></div>
                     {this.state.isMobile ? <div>
                     <ExperienceCard company={experienceArr[this.state.slide]} />
