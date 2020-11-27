@@ -1,5 +1,7 @@
 
-
+* {
+  z-index: 2;
+}
 
 
 .App-logo {
@@ -39,22 +41,6 @@
   }
 }
 
-@keyframes upsidedown {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
 
-.bubble-tim {
-  position: absolute;
-  border-radius: 50%;
-  width: 150px;
-  height: 150px;
-  object-fit: cover;
-  object-position: 50% 10%;
-  animation: upsidedown 5s infinite linear;
 
-}
+

@@ -234,11 +234,6 @@
             "name": "Paris, XVe",
             "color": "black",
             "images":"./images/paris.jpg"
-        },
-        "vilnius": {
-            "name": "Vilnius, Train Station",
-            "color": "black",
-            "images":"./images/vilnius.jpg"
         }
     }
 }

@@ -6,7 +6,7 @@ const projectArr = ["pokemon", "ekam", "trip"]
 
 export default function Projects() {
     return (
-        <div>
+        <div className="project">
             {projectArr.map(elem => {
                 return <ProjectCard project={elem} />
             })}

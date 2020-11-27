@@ -75,3 +75,81 @@
         content: '📌'
     }
 }
+
+@media (max-width: 1000px) {
+    .experience {
+        display: flex;
+        flex-direction: column;
+        margin: 10vw;
+        align-items: center;
+        justify-content: space-evenly;
+        min-height: 90vh;
+        width: 80vw;
+    }
+
+    .arrow-btn {
+        padding: 20px 24px;
+        border-radius: 50%;
+        border: 1px solid white;
+        background-color: whitesmoke;
+    }
+    .arrow-btn:hover {
+        border: 1px solid rgb(219, 219, 219);
+        cursor: pointer;
+    }
+
+    .header-exp {
+        height: 280px; 
+        text-align: center;
+
+    }
+
+    .exp-description {
+        border-top: 1px solid grey;
+        padding: 5px;
+
+    }
+    .exp-card {
+        border: 1px solid rgb(219, 219, 219);
+        margin: 10px;
+        font-family: 'Raleway', sans-serif;
+        border-bottom-right-radius: 10px;
+        border-bottom-left-radius: 10px;
+    }
+    .exp-card:hover {
+        border: 1px solid rgb(82, 128, 255);
+        box-shadow: 1px 1px rgb(82, 128, 255);
+        margin: 10px;
+        cursor: pointer;
+    }
+
+    .exp-card h1 {
+        font-size: 20px;
+    }
+
+    .exp-card h2, .exp-card h3 {
+        font-size: 16px;
+        text-align: center;
+    }
+
+    .exp-card img {
+        height: 150px;
+        width: auto;
+        object-fit: cover;
+        border-bottom: 1px solid gray;
+    }
+    .exp-card li {
+        list-style: none;
+        margin: 5px;
+    }
+    .exp-card li:before { 
+        margin-left: 10px; 
+        margin-right: 10px; 
+    }
+    .achievement:before {
+        content: '🎯';
+    }
+    .mission:before {
+        content: '📌'
+    }
+}

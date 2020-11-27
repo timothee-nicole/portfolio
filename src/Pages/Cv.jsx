@@ -1,9 +1,10 @@
 import React from 'react'
+import '../styles/cv.css'
 
 export default function Cv() {
     return (
-        <div>
-            <iframe src="./images/resume.pdf" style={{width: "100%", height: "100vh",border: "none"}} />
+        <div className="resp-container">
+            <iframe className="resp-iframe" src="./images/resume.pdf" />
         </div>
     )
 }

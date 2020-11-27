@@ -1,3 +1,4 @@
+@media (min-width: 1001px) {
 .social img {
     width: 25px;
     height: 25px;
@@ -37,4 +38,53 @@
     display: flex;
     width: 100px;
     justify-content: space-around;
+}
+}
+
+@media (max-width: 1000px) {
+    .social img {
+        width: 3vw;
+        height: 3vw;
+    }
+    
+    .footer-main {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        background: #002395;
+        background: linear-gradient(to bottom, #002395 0%, #001486 100%);
+        background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #002395), color-stop(100%, #001486));
+        background: -webkit-linear-gradient(top, #002395 0%, #001486 100%);
+        background: -moz-linear-gradient(top, #002395 0%, #001486 100%);
+        background: -o-linear-gradient(top, #002395 0%, #001486 100%);
+        background: -ms-linear-gradient(top, #002395 0%, #001486 100%);
+        filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#002395', endColorstr='#001486', GradientType=0);
+        border: 1px solid #000577;
+        box-shadow: inset 0 1px 0 #0F32A4;
+        -webkit-box-shadow: inset 0 1px 0 #0F32A4;
+        -moz-box-shadow: inset 0 1px 0 #0F32A4;
+        width:100vw;
+        font-size: 2vw;
+    }
+    
+    .footer {
+        color: white;
+        width: 10vw;
+        margin: 2vw;
+    }
+    
+    
+    .footer a {
+        color: white;
+        text-decoration: none;
+    }
+    .footer a:hover {
+        color: thistle
+    }
+    .footer-social {
+        display: flex;
+        flex-direction: column;
+        width: 10vw;
+        justify-content: space-around;
+    }
 }

@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
 
+@media (min-width: 1001px) {
 .project-card img {
     width: 300px;
     height: 200px;
@@ -52,4 +53,67 @@
 .project-card a:hover {
     border: 1px solid white;
     background-color: #ffae00af;
+}
+}
+
+@media (max-width: 1000px) {
+
+    .project {
+        display: flex;
+        flex-direction: column;
+    }
+    .project-card img {
+        width: 90vw;
+        height: 40vw;
+        object-fit: cover;
+        align-items: center;
+        margin: 5px;
+    }
+    
+    .project-card {
+        display: flex;
+        flex-direction: column;
+        border: 1px solid black;
+        margin: 10px;
+        align-items: center;
+    
+    }
+    .project-description {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-start;
+        padding: 5px;
+        font-family: 'Raleway', sans-serif;
+    
+    }
+    
+    .project-description h1 {
+        font-size: 6vw;
+        margin: 3px;
+    }
+    .project-description h2 {
+        font-size: 5vw;
+        margin: 3px;
+    }
+    .project-description p {
+        font-size: 4vw;
+        text-align: left;
+        margin: 3px;
+    }
+    
+    .project-card a, .voir {
+        color: whitesmoke;
+        text-decoration: none;
+        background-color: #FFAE00;
+        margin: 5px;
+        border: 1px solid #FFAE00;
+        border-radius: 5px;
+        padding: 10px 20px;
+    }
+    
+    .project-card a:hover {
+        border: 1px solid white;
+        background-color: #ffae00af;
+    }
 }

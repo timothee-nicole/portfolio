@@ -18,9 +18,9 @@ export default class FooterMain extends Component {
                 </div>
 
                 <div className="footer-social">
-                    <a className="social" href="https://github.com/timothee-nicole"><img src="https://ctl.s6img.com/society6/img/y-xZ_syD7LhIJOGtpdTU08ra6Aw/w_700/prints/~artwork/s6-original-art-uploads/society6/uploads/misc/8e29a2e79387449caa28090d71f489e3/~~/github-logo-prints.jpg?wait=0&attempt=0" alt="GitHub"/></a>
-                    <a className="social" href="https://www.linkedin.com/in/timoth%C3%A9e-nicole/" ><img src="https://lh3.googleusercontent.com/proxy/quMRDQj5qNP8fjrWwkPkykV_UkZR1IQFM9oB_Wol78NvekQ1o4bYG0QwhQNz1p5wt-Y-Kap0rtd_hmiqVfBhMA1RQ0o9QD9P8W2lJyA" alt="LinkedIn"/></a>
-                    <a className="social" href="https://www.instagram.com/timotheenicole/" ><img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" alt="Instagram"/></a>
+                    <a className="social" href="https://github.com/timothee-nicole"><img src="./images/github.png" alt="GitHub"/></a>
+                    <a className="social" href="https://www.linkedin.com/in/timoth%C3%A9e-nicole/" ><img src="./images/linkedin.jpg" alt="LinkedIn"/></a>
+                   
                 </div>
             </div>
         )

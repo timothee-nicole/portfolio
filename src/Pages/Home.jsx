@@ -18,7 +18,7 @@ export default class Home extends Component {
                 </div>
                 <div>
                 <h1>Traveling</h1>
-                <img src="./images/been.jpg" alt="mapmonde" style={{width: "400px", height: "200px"}} />
+                <img src="./images/been.jpg" alt="mapmonde" className="mapemonde" />
                 </div>
                 <div>
                 <h1>Street Art</h1>
