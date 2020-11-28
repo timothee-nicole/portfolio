@@ -99,6 +99,7 @@
 @media (max-width : 1000px ) {
     .school img {
         width: 30vw;
+        height: 30vw;
         margin: 10px;
     }
 
