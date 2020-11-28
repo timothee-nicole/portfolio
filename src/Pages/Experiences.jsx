@@ -66,8 +66,8 @@ export default class Experiences extends Component {
     render() {
         console.log(this.state.slide)
         return (
+            <><p className="hint">Click the card to see more details</p>
             <div className="experience">
-            <p>Click the card to see more details</p>
                     <div onClick={this.handleDecrement} className="arrow-btn"><i class="fas fa-arrow-left" ></i></div>
                     {this.state.isMobile ? <div>
                     <ExperienceCard company={experienceArr[this.state.slide]} />
@@ -76,7 +76,7 @@ export default class Experiences extends Component {
                     <ExperienceCard company={experienceArr[0]} /></> }
                     </div>}
                     <div onClick={this.handleIncrement} className="arrow-btn"><i class="fas fa-arrow-right"></i></div>
-            </div>
+            </div></>
         )
     }
 }
