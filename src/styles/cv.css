@@ -2,7 +2,7 @@
 
 .cv-container {
     height: 85vh;
-    width: 97vw;
+    
 }
 
 .cv-container p {
@@ -10,6 +10,7 @@
     text-align: center;
     font-family: 'Raleway', sans-serif;
     font-size: 5vw;
+    min-height: 100vh
 
 }
 .cv-container p a {

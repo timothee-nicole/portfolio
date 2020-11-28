@@ -43,8 +43,9 @@
 
 @media (max-width: 1000px) {
     .social img {
-        width: 3vw;
-        height: 3vw;
+        width: 4vw;
+        height: 4vw;
+        margin: 1vw;
     }
     
     .footer-main {

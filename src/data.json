@@ -125,7 +125,7 @@
             "language": "JavaScript, ES6",
             "frontEnd": ["VanillaJS"],
             "backEnd": ["No Backend"],
-            "image": "./images/pokemon-game.jpg",
+            "image": "./images/pokemon-game.JPG",
             "link": "https://timothee-nicole.github.io/Game-Project-Pokemon-Card-Game/"
         },
         "trip": {
@@ -135,7 +135,7 @@
             "language": "JavaScript, ES6",
             "frontEnd": ["React.js", "Material UI", "MapBox", "react-router-dom", "react-DnD"],
             "backEnd": ["Node.js", "mongoDB", "mongoose", "express.js", "axios", "OpenTripMap API", "Amadeus API"],
-            "image": "./images/trip.jpg",
+            "image": "./images/trip.JPG",
             "link": "https://trip-karmeliet.herokuapp.com/"
         },
         "ekam": {
@@ -145,7 +145,7 @@
             "language": "JavaScript, ES6",
             "frontEnd": ["HandleBars"],
             "backEnd": ["Node.js", "mongoose", "express.js", "mongoDB", "RawgAPI"],
-            "image": "./images/ekam.jpg",
+            "image": "./images/ekam.JPG",
             "link": "https://ekam-games.herokuapp.com/"
         }
     },
