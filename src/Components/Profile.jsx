@@ -27,11 +27,11 @@ export default function Profile() {
                  <li> 🎮 I like playing video games, I have finished the pokedex. Isn't it a proof of dedication ?  I also like Role Play and Action games. From time to time I also like doing some Sudokus</li>
                  <li>📚 I also like reading thrillers, adventure and SF books. It enables me to challenge imagination much more than when watching movies</li>
                  <li>🎬 I prefer TV Shows to movies. My favorite Movies and TV Shows genres are comedies, SF, actions/adventures, biographies documentaries, not to forget Disney Movies 😍.</li>
-             </ul></> : <><p>A few things about me : I  love spending time with my family and friends, I enjoy going for a swimming sessions between two GitHub push. To me it feels like flying  in the water (Do you know anybody that has never dreamt of flying ?), I like hiking and wandering in the middle of nowhere but also in the middle of the crowd.
+             </ul></> : <><p>A few things about me : I  love spending time with my family and friends, I enjoy going for a swimming sessions between two GitHub push. To me it feels like flying  in the water (do you know anybody that has never dreamt of flying ?), I like hiking and wandering in the middle of nowhere but also in the middle of the crowd.
              </p>
              <ul>
                  <li> 🎮 I like playing video games, I have finished the pokedex. Isn't it a proof of dedication ?  I also like Role Play and Action games. From time to time I also like doing some Sudokus</li>
-                 <li>📚 I also like to reading thrillers, adventure and SF books. Reading enables me to challenge imagination much more than when watching movies</li>
+                 <li>📚 I also like reading thrillers, adventure and SF books. It enables me to challenge imagination much more than when watching movies</li>
                  <li>🎬 I prefer TV Shows to movies. My favorite Movies and TV Shows genres are comedies, SF, actions/adventures, biographies documentaries, not to forget Disney Movies 😍.</li>
              </ul></>
             }
