@@ -104,6 +104,7 @@
         list-style: none;
         padding: 2px 5px;
         font-family: 'Bangers', cursive;
+        font-size: 7vw;
         position: relative;
         width: 97vw;
         z-index: 10;

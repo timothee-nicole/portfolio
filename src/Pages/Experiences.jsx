@@ -5,7 +5,6 @@ import '../styles/experience.css'
 
 
 let experienceArr = ["lecollectionist", "eat5", "tourscanner", "entrepreneuriales", "adagio", "disney"]
-let next = '-->'
 export default class Experiences extends Component {
     state = {
         slide: 0,
@@ -39,7 +38,6 @@ export default class Experiences extends Component {
 
     handleIncrement = () => {
         if (!this.state.isMobile) {
-            console.log('toto')
             if (this.state.slide + 1 === this.state.limit || this.state.slide === this.state.limit) {
                 this.setState({
                     slide: 0

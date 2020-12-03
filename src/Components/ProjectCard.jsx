@@ -4,7 +4,6 @@ import data from '../data.json'
 const ProjectCard = (props) => {
     const project = data.project[`${props.project}`]
     
-    console.log(project)
     return (
         <div className="project-card">
             <img src={project.image} alt={project.name} />
