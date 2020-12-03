@@ -11,6 +11,7 @@ import Cv from './Pages/Cv';
 
 
 function App() {
+  console.log('The website is responsive, if you change the width of the window, please reload the page')
   return (
     <div className="App">
     <NavMain />
