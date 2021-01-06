@@ -1,5 +1,6 @@
 import React, {useState} from 'react'
 import data from '../data.json'
+import withLanguage from './Context/withLanguage'
 
  const ExperienceCard = (props) => {
      const [isClicked, setClick] = useState(false);
@@ -10,7 +11,7 @@ import data from '../data.json'
         )
     }
 
-    const company = data.experiences[`${props.company}`]
+    const company = data[`${props.context.language}`].experiences[`${props.company}`]
 
     
     return (
@@ -23,11 +24,11 @@ import data from '../data.json'
                     </section>
                     {isClicked && 
                     <section className="exp-description">
-                        <h3>My Assignments</h3>
+                        <h3> {props.context.language === "en" ? 'My Assignments' : 'Mes Missions'}</h3>
                         {company.mission.map((elem, i) => (
                             <li key={i} className="mission">{elem}</li>
                         ))}
-                        <h3>My Achievement{company.achievement.length > 1 ? "s": ""}</h3>
+                        <h3>{props.context.language === "en" ? 'My Achievement' : 'Mes réalisations'}{company.achievement.length > 1 ? "s": ""}</h3>
                         {company.achievement.map((elem, i) => (
                             <li key={i} className="achievement">{elem}</li>
                         ))}
@@ -39,4 +40,4 @@ import data from '../data.json'
 }
 
 
-export default ExperienceCard
+export default withLanguage(ExperienceCard)

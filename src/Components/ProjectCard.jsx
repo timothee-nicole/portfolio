@@ -1,8 +1,11 @@
 import React from 'react'
 import data from '../data.json'
+import withLanguage  from './Context/withLanguage'
 
 const ProjectCard = (props) => {
-    const project = data.project[`${props.project}`]
+    const project = data[`${props.context.language}`].project[`${props.project}`]
+
+    console.log(props.context.language)
     
     return (
         <div className="project-card">
@@ -27,4 +30,4 @@ const ProjectCard = (props) => {
     )
 }
 
-export default ProjectCard
+export default withLanguage(ProjectCard)

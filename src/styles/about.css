@@ -68,10 +68,17 @@
         font-size: 40px;
         font-weight: 800;
     }
+
+    .profile h2 {
+        font-size: 25px;
+        font-weight: 800;
+        
+    }
     .profile p {
         font-size: 14px;
+        text-align: justify;
     }
-    .profile p, .profile h1, .profile ul li {
+    .profile p, .profile h1, .profile h2, .profile ul li {
         font-family: 'Raleway', sans-serif;
         padding: 10px;
         margin: 5px
@@ -132,11 +139,17 @@
         font-weight: 800;
         text-align: center;
     }
+
+    .profile h2 {
+        font-size: 30;
+        font-weight: 800;
+        text-align: center;
+    }
     .profile p {
         font-size: 18px;
         text-align: justify;
     }
-    .profile p, .profile h1, .profile ul li {
+    .profile p, .profile h1, .profile h2, .profile ul li {
         font-family: 'Raleway', sans-serif;
         padding: 10px;
         margin: 5px

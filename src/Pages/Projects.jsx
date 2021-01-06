@@ -1,10 +1,13 @@
 import React from 'react'
 import ProjectCard from '../Components/ProjectCard.jsx'
 import '../styles/project.css'
+import withLanguage  from '../Components/Context/withLanguage'
 
 const projectArr = ["pokemon", "ekam", "trip"]
 
-export default function Projects() {
+function Projects(props) {
+
+    
     return (
         <div className="project">
             {projectArr.map(elem => {
@@ -13,3 +16,5 @@ export default function Projects() {
         </div>
     )
 }
+
+export default withLanguage(Projects)

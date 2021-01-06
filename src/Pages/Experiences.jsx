@@ -2,10 +2,11 @@ import React, { Component } from 'react'
 import ExperienceCard from '../Components/ExperienceCard'
 // import Slider from "react-slick";
 import '../styles/experience.css'
+import withLanguage from '../Components/Context/withLanguage'
 
 
 let experienceArr = ["lecollectionist", "eat5", "tourscanner", "entrepreneuriales", "adagio", "disney"]
-export default class Experiences extends Component {
+class Experiences extends Component {
     state = {
         slide: 0,
         limit: experienceArr.length-1,
@@ -64,7 +65,7 @@ export default class Experiences extends Component {
     render() {
         console.log(this.state.slide)
         return (
-            <><p className="hint">Click the card to see more details</p>
+            <><p className="hint">{this.props.context.language === "en" ? 'Click the card to see more details' : "Cliquez sur la carte pour voir plus de détails"}</p>
             <div className="experience">
                     <div onClick={this.handleDecrement} className="arrow-btn"><i class="fas fa-arrow-left" ></i></div>
                     {this.state.isMobile ? <div>
@@ -78,3 +79,4 @@ export default class Experiences extends Component {
         )
     }
 }
+ export default withLanguage(Experiences)

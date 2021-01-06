@@ -1,5 +1,6 @@
 {
-    "experiences" : {
+   "en" : {
+       "experiences" : {
         "disney" : {
             "name": "Walt Disney",
             "duration": 2,
@@ -7,7 +8,7 @@
             "position": "Pop Century & Art of Animation Resort Lifeguard",
             "location": "Orlando, Florida, United States of America",
             "countryCode": "us",
-            "images":"./images/disney.jpg",
+            "images":"https://lh3.googleusercontent.com/pw/ACtC-3f_3KLxFJMBG4YfvZqf-7kP8cEobzao7ButqHJXo9lWYp-Q6a0i--NztiB6_DXLCWh0_Ez-9ePpxtIA5m943tfvUmcZKxRMGEqAcGDle2QjqChp91Is4ajeJwWb8flZubOwKA_ULBvirUaVTVJseRht=w500-h280-no?authuser=0",
             "mission": [
                 "Make sure everybody was safe in the pool", 
                 "Make sure the surroundings of the pool were clean and safe",
@@ -23,7 +24,7 @@
             "position": "Sales & Partnership Assistant",
             "location": "Caen, Calvados, France",
             "countryCode": "fr",
-            "images":"./images/adagio.png",
+            "images":"https://lh3.googleusercontent.com/pw/ACtC-3cn22s0aOhWnlGr0u2V7Fsoiqjy39Y2xTTbmA4vQQvq63Skmkqoizd4rUOf3Wz7RyVn_ulffX244DfzHuirSUtY8lPcLd1AshboVXgr0GQhNVn8aoa3G4FQ5LiH5FSr3dORLpmLZ14zEP62LB31TLds=w900-h500-no?authuser=0",
             "mission": [
                 "Welcoming Clients at the front desk", 
                 "Phoning campaign to acquire more clients and create partnerships within the Calvados area",
@@ -42,7 +43,7 @@
             "position": "Content Marketing and Blogger Partnership Assistant",
             "location": "Lisbon, Lisbon, Portugal",
             "countryCode": "pt",
-            "images":"./images/tourscanner.jpg",
+            "images":"https://lh3.googleusercontent.com/pw/ACtC-3cKjEaUVhPhTILJxvIx60viO3d3oeGVEx7q6OkjmfTnwGHeRQtMtl81HpZFGGzlqPYI9EpvHgzqUnGi84B73wv3pSpNLiZT36QMDi09cHmr8d0GdQAhVRBvtKtyR2mGlvyiKCYKt7gR2kZlC3OYP6no=w300-h168-no?authuser=0",
             "mission": [
                 "SEO optimized travel Blog Article writing", 
                 "Mailing campaign to create partnerships with travel bloggers in order to write guests posts",
@@ -61,7 +62,7 @@
             "position": "CEO Assistant",
             "location": "Paris, Ile-de-France, France",
             "countryCode": "fr",
-            "images":"./images/eat5.png",
+            "images":"https://lh3.googleusercontent.com/pw/ACtC-3cONtYnoTaoDenHfRVbs_dQbmUOD21SKE-Z-DaTdzozMEoRr5Vah-CnoMEjfT2J1bwubh5TNB2_h-RLQrPDaUxfDlb99wkDYbLut1heKOMnIokK4ZN7ro31pXnZO8C6eYdTlaYa--TE8AChFQLBS36D=w394-h221-no?authuser=0",
             "mission": [
                 "Management of weekly deliveries", 
                 "Stock Management",
@@ -83,7 +84,7 @@
             "position": "Digital Marketing Assistant",
             "location": "Paris, Ile-de-France, France",
             "countryCode": "fr",
-            "images":"./images/lecollectionist.jpg",
+            "images":"https://lh3.googleusercontent.com/pw/ACtC-3e8-B7uMCTIXujyX7bZTH172YXZ4mIwOVUSLTW_UD8vmlLdKLzv6tAc4DovgkPGLOzlRvpX2ZoHfLaq7X3N6EF-hzh6g2Z-oOEziL_q4GDrqZFvxB2rxrN5WHd184UhYnGAROQVbawz3s_S9KpM9wk9=w730-h310-no?authuser=0",
             "mission": [
                 "Google Ads & Facebook Ads campaigns management", 
                 "Distribution partner's platform management",
@@ -92,7 +93,7 @@
             ], 
             "achievement": [
                 "Managed a Google Ads account with 100+ campaigns", 
-                "managed +200 houses on 3 distribution platforms",
+                "Managed +200 houses on 3 distribution platforms",
                 "I optimized the website SEO to increase the Organic traffic by 30%", 
                 "+100% in sales after the crisis"
             ]
@@ -104,7 +105,7 @@
             "position": "Student-Entrepreneur",
             "location": "Angers, Pays-de-la-Loire, France",
             "countryCode": "",
-            "images":"./images/entrep.png",
+            "images":"https://lh3.googleusercontent.com/pw/ACtC-3fRo-GXQo_rSJZ7W5nW8Xm0XVgHaxifrjvZPXrM61emoakpFlwbCKVqs3mC0tvLU__SIYYxCEsPgcjckV6tO_B6mCPBuKo7Eqwk21SZ7sXNLUlmeaEl_aysRKz1k6oW7dYeXdZcYlcwgDJzySds2k1X=w326-h155-no?authuser=0",
             "mission": [
                 "Phoning campaign to CAC40 companies",
                 "Market research about light-therapy",
@@ -117,6 +118,7 @@
         }
         
     },
+
     "project" : {
         "pokemon": {
             "name": "Pokemon Card Game",
@@ -125,7 +127,7 @@
             "language": "JavaScript, ES6",
             "frontEnd": ["VanillaJS"],
             "backEnd": ["No Backend"],
-            "image": "./images/pokemon-game.JPG",
+            "image": "https://lh3.googleusercontent.com/pw/ACtC-3fovq-R57j3oBLT200lCHkFi7W-UL4lMZIfIH1QcGMVSyH3LjSEwl7xEQWXfwYS5cVydGSnVA2y9jZjt_vzCsLWO4LG0UPo-MsLhbKwHLdNlxn3G1flcTV9fiuFGeXfswMTg6wvltakazux5jwjJRWC=w1890-h864-no?authuser=0",
             "link": "https://timothee-nicole.github.io/Game-Project-Pokemon-Card-Game/"
         },
         "trip": {
@@ -135,7 +137,7 @@
             "language": "JavaScript, ES6",
             "frontEnd": ["React.js", "Material UI", "MapBox", "react-router-dom", "react-DnD"],
             "backEnd": ["Node.js", "mongoDB", "mongoose", "express.js", "axios", "OpenTripMap API", "Amadeus API"],
-            "image": "./images/trip.JPG",
+            "image": "https://lh3.googleusercontent.com/pw/ACtC-3cNckEWLUnXKaugp3I1Z9qGbgZLXUIUW8Zh-2bJGKpUcFzDiqpEFWfNLlxi8wT9AZJyCd4igbIBtT637T6H52J3LJgWmkOmpv6B43mEaAtt-itKoQlxgtIsm5ErBf7r7f9V1Smrd4j8unFdvBnYagPT=w312-h308-no?authuser=0",
             "link": "https://trip-karmeliet.herokuapp.com/"
         },
         "ekam": {
@@ -145,95 +147,333 @@
             "language": "JavaScript, ES6",
             "frontEnd": ["HandleBars"],
             "backEnd": ["Node.js", "mongoose", "express.js", "mongoDB", "RawgAPI"],
-            "image": "./images/ekam.JPG",
+            "image": "https://lh3.googleusercontent.com/pw/ACtC-3edzkeCD1ota80fe50tf4Qwya8mxsGQCnjqYm3NCwedeR6MYsJJYmIQT73cJ5pWmeu70kD7c3bdV2qIov58VUMrwdgwkvOLpLylELwroxTPbcN_4laZkhBQyHP5sKv-GDEagatL6GbTmguE_PJjV_et=w1895-h830-no?authuser=0",
             "link": "https://ekam-games.herokuapp.com/"
-        }
-    },
+        }},
     "passion": {
         "amethyste": {
             "name": "Amethyst",
             "color": "purple",
-            "images": "./images/amethyste.jpg"
+            "images": "https://lh3.googleusercontent.com/pw/ACtC-3fA0lTIEYdlCI7TzIiYPjVMMCxuCrFPiHlEIuvpt2n5cnhfONQU1flcvNFi_2g0funU7P_Dlj3C0wlYzdTH9op64xwrnZtikrs3h-7UEUjELKnaA66SxRdngr55azm1OrPnIMbpJIdKNXW6kx36FZ2i=s480-no?authuser=0"
         },
         "aragonite": {
             "name": "Aragonite",
             "color": "brown",
-            "images":"./images/aragonite.jpg"
+            "images":"https://lh3.googleusercontent.com/pw/ACtC-3fXr5gBTjptN4B3C78k9xTnnnf16vex2FWAuIk-LzbO2ykSoEhNvOw3k0jAm94Tyf0upSICq5NqJldt0irHmE4lKjeGcqemyJQ4S7vSXrfriTnEnVyOjOEnTmmmCFlEbXovcmcxg4W-RoCV4cKuFuZ6=s480-no?authuser=0"
         },
         "malachite": {
             "name": "Malachite",
             "color": "green",
-            "images":"./images/malachite.jpg"
+            "images":"https://lh3.googleusercontent.com/pw/ACtC-3cCFk0_wlGCS9QDaX5eIGd18fpNwkQ6KIYXyg2ax8QE-Ws2bRM1HYXogTpiHsF-aQEPrdslIwnG4pFeSbWdTKpaGTNnN3xC59PiBPND0NFThdDdu68mv7mgWwMKJHhe_23FKp8H_cB6Qqv3kJt4OwU-=w648-h867-no?authuser=0"
         },
         "bornite": {
             "name": "Bornite",
             "color": "Blue",
-            "images":"./images/bornite.jpg"
+            "images":"https://lh3.googleusercontent.com/pw/ACtC-3cXouP526FVQu9tiCmtk3oRwzR60JoSahpBH3STjzscv9SpAZpKh5GMduwpDzqHyncuu0gUqI_YtFOup86IMrenbteXFR8LmMZUfjxv3-hy0aBGVrURZZuHgy8BgwgSZFgc1o_fOC4tp29Xr1ebeS2t=s480-no?authuser=0"
         },
         "gypse": {
             "name": "Honey Gypsum",
             "color": "brown",
-            "images":"./images/gypse.jpg"
+            "images":"https://lh3.googleusercontent.com/pw/ACtC-3fcK0QOOUlOITj0HMV9XolY1ulCOWs_MSUHZwWExXsv53i3VwmJTovGiVEkcCjcKYMuC7bI4_i92kKXt9uIT5QktBbgDuh8ZbLUyaQN0kUo2U4_9ng-7TWTGHPU8QQ1bIgsWks-j3K62i028F8dhETy=w648-h867-no?authuser=0"
         },
         "marcassite": {
             "name": "Marcasite",
             "color": "grey",
-            "images":"./images/marcassite.jpg"
+            "images":"https://lh3.googleusercontent.com/pw/ACtC-3fOZxXiyzAnRlZ6WepyMLln2l1iaehTWHsRHXFSUG6Apt483iPMCCPwleF0s0yXIa5sdYV6hDIPlrkhbzXD9aWhVPaSVa-tQ4RgBJG8IZAAkrVGI6kVn-uxHeV2lh5wEyO6yrxtLMeyRm-drvHKlN5e=s480-no?authuser=0"
         },
         "opale": {
             "name": "Opal",
             "color": "lightblue",
-            "images":"./images/opale.jpg"
+            "images":"https://lh3.googleusercontent.com/pw/ACtC-3d2qLn3iY5-ijLVT4UqpjSLjo2gU30GNVxp-4kkY_oLmHpOA1ga9fT-gXUrnYhunwttW8zc8IMOO8Y3yC6kGxKkoRqP-HAS9XhPhKPs3X4J53XhavhBjC2yM3EAfWR3M1IBEfKCPcAqvUZJS3LTHXd_=s480-no?authuser=0"
         },
         "quartz": {
             "name": "Quartz",
             "color": "grey",
-            "images":"./images/quartz.jpg"
+            "images":"https://lh3.googleusercontent.com/pw/ACtC-3fjy7m-6Kr4Q1tF9tCLA8sHCxXj7IJSbPf7SG1F5D0rGGdL84k5IKApeU2GV7xlVg4HX2ANbw-LG4P5HVYMA8yacTHellGd7iOErO_UBx47owYoyINCMUQAC_PBC8uWyXAWvj8PFgYFrM5dCbvaUWLg=s480-no?authuser=0"
         },
         "rose": {
             "name": "Sand Roses",
             "color": "brown",
-            "images":"./images/rose.jpg"
+            "images":"https://lh3.googleusercontent.com/pw/ACtC-3cPcdkc4NK-iwIcDShlZYfskKhz1tSqd9Ak9nZNgZ0P3M6nRwCKhk2EAwC383OvRpc7qSvM23SG_Q8ZQbW-WO_T6IeLtPbA60rURvqEnPJQQAt3W1aqB-dzfmx-PY3nA6m0fLpqjwK3TVC03L7FlQ3p=w648-h867-no?authuser=0"
         },
         "tourmaline": {
             "name": "Tourmaline",
             "color": "green",
-            "images":"./images/tourmaline.jpg"
+            "images":"https://lh3.googleusercontent.com/pw/ACtC-3eX9f55PJDeGtKr81QUSwEc42NHwO2VdsoMX_X1HluxLxsIcLDilgRAcVnKPhzogHzfbV_0oszqZzRZtKP3TxKWQ5s9GrxIiDWcxgaZ7wHPvlWI8jMuhkZd1yQTDOs0XaLlsLOA51H-BOgCIG60mdc4=s480-no?authuser=0"
         },
         "berlin": {
             "name": "Berlin, City Center",
             "color": "black",
-            "images":"./images/berlin.jpg"
+            "images":"https://lh3.googleusercontent.com/pw/ACtC-3cqnA1KS6Kxqp5LWx9eojO6EYt6r1MXsLQAhBOLkX-SEYlIO_eGDBoMlWf_Ax9j1mbg7oIeonFHKJtH7KntClR_p1DY-XHCdRhvSHAn-MbfHaUB9ynQ1pMcE7yg-SzbDD6se1VeCPGSbEaNXMQEolhP=w648-h867-no?authuser=0"
         },
         "templehof": {
             "name": "Berlin, TempelHof Airport",
             "color": "black",
-            "images":"./images/templehof.jpg"
+            "images":"https://lh3.googleusercontent.com/pw/ACtC-3fnq0OX6JOoN0aTRuSHKVqEYo9x5FYaX2bDcKZlFqgZ0hTDT-GLXx8Z350uf3xVmmWtAaloWfSIEPaf80vXJHrcSEa5H2jh6n61gupo4rpxAJQDtJn2phIOPgMnPmykDmTCZsJqv-42vFmd9fxNFoeA=w1350-h867-no?authuser=0"
         }, 
         "barcelona": {
             "name": "Barcelona, Skate Park",
             "color": "black",
-            "images":"./images/barcelona.jpg"
+            "images":"https://lh3.googleusercontent.com/pw/ACtC-3eAWQspOOhuarcrNkUROidx0zveLllshxusC0J1oFnKoXjkJwT032AnQq7c9kiRd5hecQ7a449oGk-qc2sPoYDvASUCaOKFVUDp2Pmjk9tZr4YTnzXYgmIgwNUibXDetSe-I_CYeOpgVoJx_sEwNP3J=w648-h867-no?authuser=0"
         },
         "lisbon": {
             "name": "Lisbon, Train Station",
             "color": "black",
-            "images":"./images/lisbon.jpg"
+            "images":"https://lh3.googleusercontent.com/pw/ACtC-3d-aOzF0CjbQWGNv6JhcTZuGSPYYbbNU-Vc9lLaLKI9kiq6tbn72NhyPgSXCF4NAU9UPouy-C39Wf5w0YgwJZIbhbY8_s2IMLEgmRpazv3QvQfwWutetswJH59luWe3zygkj--wjsEqETXx8uUB-oBj=s867-no?authuser=0"
         },
         "ljubljana": {
             "name": "Ljubljana, Metalkova",
             "color": "black",
-            "images":"./images/Ljubljana.jpg"
+            "images":"https://lh3.googleusercontent.com/pw/ACtC-3eZvV-TIaKRRIUeqYn9Im8Z0C8lSag00ePgnv9FNNnGqT_NvKvaAw-gEF5GyjDxQdCmWnUyIBgeemaM1aoPnmU-1tIxGBNn-kheFEx2_BTwwM-j4gfHdmh4vo--sk07TqD3ujmiaOr09Mq2ad0irC9i=w648-h867-no?authuser=0"
         },
         "london": {
             "name": "London, City",
             "color": "black",
-            "images":"./images/london.jpg"
+            "images":"https://lh3.googleusercontent.com/pw/ACtC-3d3pIOs3WHlzpOq10EY6bRapSCgndJGbydjpA72eDSv_a6lSOcYATCy2joFkG2ZpsBtOGEKKW5o4MKK5eBpDf2hHOQYvORaofqy9ohotauzy8V3uUTq6_ldKIINCL5cPRDGQ0L47QVVhhMJzgK9s-rS=w1157-h867-no?authuser=0"
         },
         "paris": {
             "name": "Paris, XVe",
             "color": "black",
-            "images":"./images/paris.jpg"
+            "images":"https://lh3.googleusercontent.com/pw/ACtC-3esY9OasNngVFEzqu7sC-ba0R3ySzk3GXfnIbyEXZL_a-PyGBzQbBj2Jd_zyGGEYjiPN_9YwGCUVmcCYG6NhWvLxH2Sr1675j_qbNKqFHZEuzTZdQQfnsa3-grhHso_0nx7gv-TWZYBx24qKZglnrIZ=w1157-h867-no?authuser=0"
         }
+    }},
+    "fr": {
+        "experiences" : {
+            "disney" : {
+                "name": "Walt Disney World",
+                "duration": 2,
+                "year": 2016,
+                "position": "Maître Nageur à Pop Century & Art of Animation Resort",
+                "location": "Orlando, Floride, Etats-Unis",
+                "countryCode": "us",
+                "images":"https://lh3.googleusercontent.com/pw/ACtC-3f_3KLxFJMBG4YfvZqf-7kP8cEobzao7ButqHJXo9lWYp-Q6a0i--NztiB6_DXLCWh0_Ez-9ePpxtIA5m943tfvUmcZKxRMGEqAcGDle2QjqChp91Is4ajeJwWb8flZubOwKA_ULBvirUaVTVJseRht=w500-h280-no?authuser=0",
+                "mission": [
+                    "S'assurer que les clients sont en sécurité dans la piscine", 
+                    "S'assurer que les alentours de la piscine sont propres et sécurisés",
+                    "Aide aux clients s'ils avaient des questions",
+                    "Proposer une expériences magiques aux 'guests'"
+                ], 
+                "achievement": ["A sauvé un enfant de la noyade", "Diplomé par l'équipe de Walt Disney World Resort pour etre un Maitre Nageur de confiance"]
+            },
+            "adagio": {
+                "name": "Groupe AccordHotel, Adagio ApartHotel",
+                "duration": 2,
+                "year": 2017,
+                "position": "Assistant vente et partenariat",
+                "location": "Caen, Calvados, France",
+                "countryCode": "fr",
+                "images":"https://lh3.googleusercontent.com/pw/ACtC-3cn22s0aOhWnlGr0u2V7Fsoiqjy39Y2xTTbmA4vQQvq63Skmkqoizd4rUOf3Wz7RyVn_ulffX244DfzHuirSUtY8lPcLd1AshboVXgr0GQhNVn8aoa3G4FQ5LiH5FSr3dORLpmLZ14zEP62LB31TLds=w900-h500-no?authuser=0",
+                "mission": [
+                    "Accueil des clients à la réception", 
+                    "Campagne téléphonique pour acquérir plus de clients et créer de nouveaux partenariat dans la région Basse Normandie",
+                    "Aide aux clients s'ils avaient des questions",
+                    "Proposer une très bonne expériences aux clients"
+                ], 
+                "achievement": [
+                    "Une centaine de partenariat avec tarifs préférentiels créés", 
+                    "Création d'une base de donnée de tous les clients depuis 2012"
+                ]
+            },
+            "tourscanner": {
+                "name": "TourScanner",
+                "duration": 5,
+                "year": 2018,
+                "position": "Content Marketing et Assistant au partenariat avec les Bloggers",
+                "location": "Lisbonne, Lisbonne, Portugal",
+                "countryCode": "pt",
+                "images":"https://lh3.googleusercontent.com/pw/ACtC-3cKjEaUVhPhTILJxvIx60viO3d3oeGVEx7q6OkjmfTnwGHeRQtMtl81HpZFGGzlqPYI9EpvHgzqUnGi84B73wv3pSpNLiZT36QMDi09cHmr8d0GdQAhVRBvtKtyR2mGlvyiKCYKt7gR2kZlC3OYP6no=w300-h168-no?authuser=0",
+                "mission": [
+                    "Ecriture d'article de Blog de voyage optimisé en SEO", 
+                    "Création de campagnes d'e-mailing pour créer des partenariats avec des bloggers voyage",
+                    "Community Management sur Facebook et Instagram"
+                ], 
+                "achievement": [
+                    " Création et Gestion d'un compte Instagram de 0 à 1 000 abonnés", 
+                    "J'ai écris 10 articles de voyage dont deux qui ont eu plus de 15 000 visiteurs", 
+                    "Le traffic du site internet a évolué de 200%"
+                ]
+            },
+            "eat5": {
+                "name": "Eat5",
+                "duration": 6,
+                "year": 2019,
+                "position": "Bras Droit du CEO",
+                "location": "Paris, Ile-de-France, France",
+                "countryCode": "fr",
+                "images":"https://lh3.googleusercontent.com/pw/ACtC-3cONtYnoTaoDenHfRVbs_dQbmUOD21SKE-Z-DaTdzozMEoRr5Vah-CnoMEjfT2J1bwubh5TNB2_h-RLQrPDaUxfDlb99wkDYbLut1heKOMnIokK4ZN7ro31pXnZO8C6eYdTlaYa--TE8AChFQLBS36D=w394-h221-no?authuser=0",
+                "mission": [
+                    "Gestion de livraisons hebdomadaire", 
+                    "Gestion des stocks",
+                    "Formation des livreurs et des préparateurs de commande",
+                    "Création du calendrier marketing de 2019",
+                    "Campagne téléphonique pour acquérir plus de clients dans la région parisienne"
+                ], 
+                "achievement": [
+                    "J'ai formé 2 préparateurs de commandes et 4 livreurs", 
+                    "J'ai continué la gestion des livraisons avec une augmentation du nombre de clients de 100% en 3 mois",
+                    "J'ai acquis 3 clients",
+                    "Mise à jour des stocks hebdomadaire en fonction de nos besoins"
+                ]
+            }, 
+            "lecollectionist": {
+                "name": "Le Collectionist",
+                "duration": 6,
+                "year": 2020,
+                "position": "Assistant Web Marketing",
+                "location": "Paris, Ile-de-France, France",
+                "countryCode": "fr",
+                "images":"https://lh3.googleusercontent.com/pw/ACtC-3e8-B7uMCTIXujyX7bZTH172YXZ4mIwOVUSLTW_UD8vmlLdKLzv6tAc4DovgkPGLOzlRvpX2ZoHfLaq7X3N6EF-hzh6g2Z-oOEziL_q4GDrqZFvxB2rxrN5WHd184UhYnGAROQVbawz3s_S9KpM9wk9=w730-h310-no?authuser=0",
+                "mission": [
+                    "Gestion des campagnes Google Ads et Facebook Ads", 
+                    "Gestion des plateformes de distribution partenaires",
+                    "Suivi des performances SEM et SEO",
+                    "Veille concurrentielle"
+                ], 
+                "achievement": [
+                    "Gestion d'un compte Google Ads avec 100+ campagnes", 
+                    "Gestion de 200+ maisons sur 3 plateformes",
+                    "J'ai optimisé la SEO du site pour une augmentation du traffic naturel de 30%", 
+                    "+100% de vente après la crise"
+                ]
+            },
+            "entrepreneuriales": {
+                "name": "Les Entrepreneuriales",
+                "duration": 6,
+                "year": 2017,
+                "position": "Etudiant Entrepreneur",
+                "location": "Angers, Pays-de-la-Loire, France",
+                "countryCode": "",
+                "images":"https://lh3.googleusercontent.com/pw/ACtC-3fRo-GXQo_rSJZ7W5nW8Xm0XVgHaxifrjvZPXrM61emoakpFlwbCKVqs3mC0tvLU__SIYYxCEsPgcjckV6tO_B6mCPBuKo7Eqwk21SZ7sXNLUlmeaEl_aysRKz1k6oW7dYeXdZcYlcwgDJzySds2k1X=w326-h155-no?authuser=0",
+                "mission": [
+                    "Campagne téléphonique auprès des entreprises du CAC40",
+                    "Etude de marché sur la luminothérapie",
+                    "Recherche de fournisseurs de lampes de luminothérapie"
+                ], 
+                "achievement": [
+                    "Création d'une fause campagne B2B sur la luminothérapie et le bien-être en entreprise",
+                    "Pitch devant des investisseurs"
+                ]
+            }
+            
+        },
+        "project" : {
+            "pokemon": {
+                "name": "Jeu de carte Pokemon",
+                "duration":1,
+                "description": "Jeu de carte Pokemon créé au début de la formation IronHack. Pour jouer vous devez piocher 5 cartes puis cliquer sur start pour commencer le jeu et jouez avec les flèches du clavier. le site internet n'est pas responsive, C'est mieux de l'essayer sur PC ou sur Mac. J'ai créé ce jeu car j'aime bien les pokemon et je trouvais ça sympa de faire un jeu de carte simple. C'est une application uniquement Front-End",
+                "language": "JavaScript, ES6",
+                "frontEnd": ["VanillaJS"],
+                "backEnd": ["No Backend"],
+                "image": "https://lh3.googleusercontent.com/pw/ACtC-3fovq-R57j3oBLT200lCHkFi7W-UL4lMZIfIH1QcGMVSyH3LjSEwl7xEQWXfwYS5cVydGSnVA2y9jZjt_vzCsLWO4LG0UPo-MsLhbKwHLdNlxn3G1flcTV9fiuFGeXfswMTg6wvltakazux5jwjJRWC=w1890-h864-no?authuser=0",
+                "link": "https://timothee-nicole.github.io/Game-Project-Pokemon-Card-Game/"
+            },
+            "trip": {
+                "name": "Trip & Karmeliet",
+                "duration":1,
+                "description": "Application Full-stack. C'était mon projet final de la formation à Ironhack. L'idée était de créer une plateforme d'organisation de voyage et de gestion de son emploi du temps. Sur l'application vous pouvez choisir une destination, ce que vous voulez y faire (points d'intérêts et activités), à quel prix et quand. Le nom est inspiré de la bière Triple Karmeliet. J'ai créé cette application basé sur une idée que je voulais développer après avoir travailler chez TourScanner il y a 2 ans. Je pense que ca pourrait être un bon outil a ajouté à leur site internet dans le futur. L'application n'est pas reponsive. Pour l'utiliser vous devez vous créer un compte un compte. Le mot de passe est crypté.",
+                "language": "JavaScript, ES6",
+                "frontEnd": ["React.js", "Material UI", "MapBox", "react-router-dom", "react-DnD"],
+                "backEnd": ["Node.js", "mongoDB", "mongoose", "express.js", "axios", "OpenTripMap API", "Amadeus API"],
+                "image": "https://lh3.googleusercontent.com/pw/ACtC-3cNckEWLUnXKaugp3I1Z9qGbgZLXUIUW8Zh-2bJGKpUcFzDiqpEFWfNLlxi8wT9AZJyCd4igbIBtT637T6H52J3LJgWmkOmpv6B43mEaAtt-itKoQlxgtIsm5ErBf7r7f9V1Smrd4j8unFdvBnYagPT=w312-h308-no?authuser=0",
+                "link": "https://trip-karmeliet.herokuapp.com/"
+            },
+            "ekam": {
+                "name": "EKAM GAMES",
+                "duration":1,
+                "description": "Application Back-end  créée avec 2 autres personnes à Ironhack (Vincent Proum & Maximilan Gruber). L'idée était de créer une plateforme de gestion de collection de jeux vidéos. Sur l'application il est possible de trier les jeux dans 3 listes différentes : les jeux possédés, les jeux que vous souhaitez avoir et ceux que vous avez terminés. L'idée était de faire une 'copie' de Mangacollec pour les jeux vidéos.L'application n'est pas vraiment responsive. Pour utiliser l'application il faut se créer un compte, le mot de passe est crypté.",
+                "language": "JavaScript, ES6",
+                "frontEnd": ["HandleBars"],
+                "backEnd": ["Node.js", "mongoose", "express.js", "mongoDB", "RawgAPI"],
+                "image": "https://lh3.googleusercontent.com/pw/ACtC-3edzkeCD1ota80fe50tf4Qwya8mxsGQCnjqYm3NCwedeR6MYsJJYmIQT73cJ5pWmeu70kD7c3bdV2qIov58VUMrwdgwkvOLpLylELwroxTPbcN_4laZkhBQyHP5sKv-GDEagatL6GbTmguE_PJjV_et=w1895-h830-no?authuser=0",
+                "link": "https://ekam-games.herokuapp.com/"
+            }
+        },
+        "passion": {
+            "amethyste": {
+                "name": "Amethyste",
+                "color": "purple",
+                "images": "https://lh3.googleusercontent.com/pw/ACtC-3fA0lTIEYdlCI7TzIiYPjVMMCxuCrFPiHlEIuvpt2n5cnhfONQU1flcvNFi_2g0funU7P_Dlj3C0wlYzdTH9op64xwrnZtikrs3h-7UEUjELKnaA66SxRdngr55azm1OrPnIMbpJIdKNXW6kx36FZ2i=s480-no?authuser=0"
+            },
+            "aragonite": {
+                "name": "Aragonite",
+                "color": "brown",
+                "images":"https://lh3.googleusercontent.com/pw/ACtC-3fXr5gBTjptN4B3C78k9xTnnnf16vex2FWAuIk-LzbO2ykSoEhNvOw3k0jAm94Tyf0upSICq5NqJldt0irHmE4lKjeGcqemyJQ4S7vSXrfriTnEnVyOjOEnTmmmCFlEbXovcmcxg4W-RoCV4cKuFuZ6=s480-no?authuser=0"
+            },
+            "malachite": {
+                "name": "Malachite",
+                "color": "green",
+                "images":"https://lh3.googleusercontent.com/pw/ACtC-3cCFk0_wlGCS9QDaX5eIGd18fpNwkQ6KIYXyg2ax8QE-Ws2bRM1HYXogTpiHsF-aQEPrdslIwnG4pFeSbWdTKpaGTNnN3xC59PiBPND0NFThdDdu68mv7mgWwMKJHhe_23FKp8H_cB6Qqv3kJt4OwU-=w648-h867-no?authuser=0"
+            },
+            "bornite": {
+                "name": "Bornite",
+                "color": "Blue",
+                "images":"https://lh3.googleusercontent.com/pw/ACtC-3cXouP526FVQu9tiCmtk3oRwzR60JoSahpBH3STjzscv9SpAZpKh5GMduwpDzqHyncuu0gUqI_YtFOup86IMrenbteXFR8LmMZUfjxv3-hy0aBGVrURZZuHgy8BgwgSZFgc1o_fOC4tp29Xr1ebeS2t=s480-no?authuser=0"
+            },
+            "gypse": {
+                "name": "Gypse Miel",
+                "color": "brown",
+                "images":"https://lh3.googleusercontent.com/pw/ACtC-3fcK0QOOUlOITj0HMV9XolY1ulCOWs_MSUHZwWExXsv53i3VwmJTovGiVEkcCjcKYMuC7bI4_i92kKXt9uIT5QktBbgDuh8ZbLUyaQN0kUo2U4_9ng-7TWTGHPU8QQ1bIgsWks-j3K62i028F8dhETy=w648-h867-no?authuser=0"
+            },
+            "marcassite": {
+                "name": "Marcasite",
+                "color": "grey",
+                "images":"https://lh3.googleusercontent.com/pw/ACtC-3fOZxXiyzAnRlZ6WepyMLln2l1iaehTWHsRHXFSUG6Apt483iPMCCPwleF0s0yXIa5sdYV6hDIPlrkhbzXD9aWhVPaSVa-tQ4RgBJG8IZAAkrVGI6kVn-uxHeV2lh5wEyO6yrxtLMeyRm-drvHKlN5e=s480-no?authuser=0"
+            },
+            "opale": {
+                "name": "Opale",
+                "color": "lightblue",
+                "images":"https://lh3.googleusercontent.com/pw/ACtC-3d2qLn3iY5-ijLVT4UqpjSLjo2gU30GNVxp-4kkY_oLmHpOA1ga9fT-gXUrnYhunwttW8zc8IMOO8Y3yC6kGxKkoRqP-HAS9XhPhKPs3X4J53XhavhBjC2yM3EAfWR3M1IBEfKCPcAqvUZJS3LTHXd_=s480-no?authuser=0"
+            },
+            "quartz": {
+                "name": "Quartz",
+                "color": "grey",
+                "images":"https://lh3.googleusercontent.com/pw/ACtC-3fjy7m-6Kr4Q1tF9tCLA8sHCxXj7IJSbPf7SG1F5D0rGGdL84k5IKApeU2GV7xlVg4HX2ANbw-LG4P5HVYMA8yacTHellGd7iOErO_UBx47owYoyINCMUQAC_PBC8uWyXAWvj8PFgYFrM5dCbvaUWLg=s480-no?authuser=0"
+            },
+            "rose": {
+                "name": "Rose des Sables",
+                "color": "brown",
+                "images":"https://lh3.googleusercontent.com/pw/ACtC-3cPcdkc4NK-iwIcDShlZYfskKhz1tSqd9Ak9nZNgZ0P3M6nRwCKhk2EAwC383OvRpc7qSvM23SG_Q8ZQbW-WO_T6IeLtPbA60rURvqEnPJQQAt3W1aqB-dzfmx-PY3nA6m0fLpqjwK3TVC03L7FlQ3p=w648-h867-no?authuser=0"
+            },
+            "tourmaline": {
+                "name": "Tourmaline",
+                "color": "green",
+                "images":"https://lh3.googleusercontent.com/pw/ACtC-3eX9f55PJDeGtKr81QUSwEc42NHwO2VdsoMX_X1HluxLxsIcLDilgRAcVnKPhzogHzfbV_0oszqZzRZtKP3TxKWQ5s9GrxIiDWcxgaZ7wHPvlWI8jMuhkZd1yQTDOs0XaLlsLOA51H-BOgCIG60mdc4=s480-no?authuser=0"
+            },
+            "berlin": {
+                "name": "Berlin, Centre Ville",
+                "color": "black",
+                "images":"https://lh3.googleusercontent.com/pw/ACtC-3cqnA1KS6Kxqp5LWx9eojO6EYt6r1MXsLQAhBOLkX-SEYlIO_eGDBoMlWf_Ax9j1mbg7oIeonFHKJtH7KntClR_p1DY-XHCdRhvSHAn-MbfHaUB9ynQ1pMcE7yg-SzbDD6se1VeCPGSbEaNXMQEolhP=w648-h867-no?authuser=0"
+            },
+            "templehof": {
+                "name": "Berlin, Aeroport de TempelHof",
+                "color": "black",
+                "images":"https://lh3.googleusercontent.com/pw/ACtC-3fnq0OX6JOoN0aTRuSHKVqEYo9x5FYaX2bDcKZlFqgZ0hTDT-GLXx8Z350uf3xVmmWtAaloWfSIEPaf80vXJHrcSEa5H2jh6n61gupo4rpxAJQDtJn2phIOPgMnPmykDmTCZsJqv-42vFmd9fxNFoeA=w1350-h867-no?authuser=0"
+            }, 
+            "barcelona": {
+                "name": "Barcelone, Skate Park",
+                "color": "black",
+                "images":"https://lh3.googleusercontent.com/pw/ACtC-3eAWQspOOhuarcrNkUROidx0zveLllshxusC0J1oFnKoXjkJwT032AnQq7c9kiRd5hecQ7a449oGk-qc2sPoYDvASUCaOKFVUDp2Pmjk9tZr4YTnzXYgmIgwNUibXDetSe-I_CYeOpgVoJx_sEwNP3J=w648-h867-no?authuser=0"
+            },
+            "lisbon": {
+                "name": "Lisbonne, Station de métro",
+                "color": "black",
+                "images":"https://lh3.googleusercontent.com/pw/ACtC-3d-aOzF0CjbQWGNv6JhcTZuGSPYYbbNU-Vc9lLaLKI9kiq6tbn72NhyPgSXCF4NAU9UPouy-C39Wf5w0YgwJZIbhbY8_s2IMLEgmRpazv3QvQfwWutetswJH59luWe3zygkj--wjsEqETXx8uUB-oBj=s867-no?authuser=0"
+            },
+            "ljubljana": {
+                "name": "Ljubljana, Metalkova",
+                "color": "black",
+                "images":"https://lh3.googleusercontent.com/pw/ACtC-3eZvV-TIaKRRIUeqYn9Im8Z0C8lSag00ePgnv9FNNnGqT_NvKvaAw-gEF5GyjDxQdCmWnUyIBgeemaM1aoPnmU-1tIxGBNn-kheFEx2_BTwwM-j4gfHdmh4vo--sk07TqD3ujmiaOr09Mq2ad0irC9i=w648-h867-no?authuser=0"
+            },
+            "london": {
+                "name": "Londre, City",
+                "color": "black",
+                "images":"https://lh3.googleusercontent.com/pw/ACtC-3d3pIOs3WHlzpOq10EY6bRapSCgndJGbydjpA72eDSv_a6lSOcYATCy2joFkG2ZpsBtOGEKKW5o4MKK5eBpDf2hHOQYvORaofqy9ohotauzy8V3uUTq6_ldKIINCL5cPRDGQ0L47QVVhhMJzgK9s-rS=w1157-h867-no?authuser=0"
+            },
+            "paris": {
+                "name": "Paris, XVe",
+                "color": "black",
+                "images":"https://lh3.googleusercontent.com/pw/ACtC-3esY9OasNngVFEzqu7sC-ba0R3ySzk3GXfnIbyEXZL_a-PyGBzQbBj2Jd_zyGGEYjiPN_9YwGCUVmcCYG6NhWvLxH2Sr1675j_qbNKqFHZEuzTZdQQfnsa3-grhHso_0nx7gv-TWZYBx24qKZglnrIZ=w1157-h867-no?authuser=0"
+            }
+    }
     }
 }

@@ -4,10 +4,13 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import {BrowserRouter} from "react-router-dom"
+import LanguageProvider from './Components/Context/LanguageProvider';
 ReactDOM.render(
   <React.StrictMode>
     <BrowserRouter>
+    <LanguageProvider>
       <App />
+    </LanguageProvider>
     </BrowserRouter>
   </React.StrictMode>,
   document.getElementById('root')

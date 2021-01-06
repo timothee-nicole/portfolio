@@ -1,7 +1,8 @@
 import React, { Component } from 'react'
 import data from '../data.json'
+import withLanguage from "./Context/withLanguage"
 
-export default class Carroussel extends Component {
+class Carroussel extends Component {
 
     state = {
         index: 0,
@@ -32,7 +33,8 @@ export default class Carroussel extends Component {
     }
 
     render() {
-        let items = data.passion[this.props.data[this.state.index]]
+        let language = this.props.context.language
+        let items = data[`${this.props.context.language}`].passion[this.props.data[this.state.index]]
         return (
             <div className="carousel">
             <img src={items.images} alt={items.name} />
@@ -45,3 +47,5 @@ export default class Carroussel extends Component {
         )
     }
 }
+
+export default withLanguage(Carroussel)

@@ -4,9 +4,17 @@
     height: 25px;
 }
 
+.language {
+    color: white;
+    background-color: transparent;
+    border: 1px solid white;
+    padding: 3px 6px;
+    border-radius: 3px;
+}
+
 .footer-main {
     display: flex;
-    justify-content: space-evenly; 
+    justify-content: space-around; 
     align-items: center;
     background: #002395;
     background: linear-gradient(to bottom, #002395 0%, #001486 100%);
@@ -72,6 +80,12 @@
         color: white;
         width: 10vw;
         margin: 2vw;
+    }
+
+    .language {
+        color: white;
+        background-color: transparent;
+        border: none;
     }
     
     
