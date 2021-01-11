@@ -251,9 +251,9 @@
                     "S'assurer que les clients sont en sécurité dans la piscine", 
                     "S'assurer que les alentours de la piscine sont propres et sécurisés",
                     "Aide aux clients s'ils avaient des questions",
-                    "Proposer une expériences magiques aux 'guests'"
+                    "Proposer une expérience magique aux 'guests'"
                 ], 
-                "achievement": ["A sauvé un enfant de la noyade", "Diplomé par l'équipe de Walt Disney World Resort pour etre un Maitre Nageur de confiance"]
+                "achievement": ["A sauvé un enfant de la noyade", "Diplomé par l'équipe de Walt Disney World Resort pour être un Maitre Nageur de confiance"]
             },
             "adagio": {
                 "name": "Groupe AccordHotel, Adagio ApartHotel",
@@ -265,13 +265,13 @@
                 "images":"https://lh3.googleusercontent.com/pw/ACtC-3cn22s0aOhWnlGr0u2V7Fsoiqjy39Y2xTTbmA4vQQvq63Skmkqoizd4rUOf3Wz7RyVn_ulffX244DfzHuirSUtY8lPcLd1AshboVXgr0GQhNVn8aoa3G4FQ5LiH5FSr3dORLpmLZ14zEP62LB31TLds=w900-h500-no?authuser=0",
                 "mission": [
                     "Accueil des clients à la réception", 
-                    "Campagne téléphonique pour acquérir plus de clients et créer de nouveaux partenariat dans la région Basse Normandie",
+                    "Campagne téléphonique pour acquérir plus de clients et créer de nouveaux partenariats dans la région Basse Normandie",
                     "Aide aux clients s'ils avaient des questions",
-                    "Proposer une très bonne expériences aux clients"
+                    "Proposer une très bonne expérience aux clients"
                 ], 
                 "achievement": [
-                    "Une centaine de partenariat avec tarifs préférentiels créés", 
-                    "Création d'une base de donnée de tous les clients depuis 2012"
+                    "Une centaine de partenariats avec tarifs préférentiels créés", 
+                    "Création d'une base de données de tous les clients depuis 2012"
                 ]
             },
             "tourscanner": {
@@ -283,13 +283,13 @@
                 "countryCode": "pt",
                 "images":"https://lh3.googleusercontent.com/pw/ACtC-3cKjEaUVhPhTILJxvIx60viO3d3oeGVEx7q6OkjmfTnwGHeRQtMtl81HpZFGGzlqPYI9EpvHgzqUnGi84B73wv3pSpNLiZT36QMDi09cHmr8d0GdQAhVRBvtKtyR2mGlvyiKCYKt7gR2kZlC3OYP6no=w300-h168-no?authuser=0",
                 "mission": [
-                    "Ecriture d'article de Blog de voyage optimisé en SEO", 
+                    "Ecriture d'articles de Blog de voyages optimisés en SEO", 
                     "Création de campagnes d'e-mailing pour créer des partenariats avec des bloggers voyage",
                     "Community Management sur Facebook et Instagram"
                 ], 
                 "achievement": [
                     " Création et Gestion d'un compte Instagram de 0 à 1 000 abonnés", 
-                    "J'ai écris 10 articles de voyage dont deux qui ont eu plus de 15 000 visiteurs", 
+                    "J'ai écrit 10 articles de voyage dont deux qui ont eu plus de 15 000 visiteurs", 
                     "Le traffic du site internet a évolué de 200%"
                 ]
             },
@@ -302,9 +302,9 @@
                 "countryCode": "fr",
                 "images":"https://lh3.googleusercontent.com/pw/ACtC-3cONtYnoTaoDenHfRVbs_dQbmUOD21SKE-Z-DaTdzozMEoRr5Vah-CnoMEjfT2J1bwubh5TNB2_h-RLQrPDaUxfDlb99wkDYbLut1heKOMnIokK4ZN7ro31pXnZO8C6eYdTlaYa--TE8AChFQLBS36D=w394-h221-no?authuser=0",
                 "mission": [
-                    "Gestion de livraisons hebdomadaire", 
+                    "Gestion de livraisons hebdomadaires", 
                     "Gestion des stocks",
-                    "Formation des livreurs et des préparateurs de commande",
+                    "Formation des livreurs et des préparateurs de commandes",
                     "Création du calendrier marketing de 2019",
                     "Campagne téléphonique pour acquérir plus de clients dans la région parisienne"
                 ], 
@@ -312,7 +312,7 @@
                     "J'ai formé 2 préparateurs de commandes et 4 livreurs", 
                     "J'ai continué la gestion des livraisons avec une augmentation du nombre de clients de 100% en 3 mois",
                     "J'ai acquis 3 clients",
-                    "Mise à jour des stocks hebdomadaire en fonction de nos besoins"
+                    "Mise à jour des stocks hebdomadaires en fonction de nos besoins"
                 ]
             }, 
             "lecollectionist": {
@@ -333,7 +333,7 @@
                     "Gestion d'un compte Google Ads avec 100+ campagnes", 
                     "Gestion de 200+ maisons sur 3 plateformes",
                     "J'ai optimisé la SEO du site pour une augmentation du traffic naturel de 30%", 
-                    "+100% de vente après la crise"
+                    "+100% de ventes après la crise"
                 ]
             },
             "entrepreneuriales": {
@@ -350,7 +350,7 @@
                     "Recherche de fournisseurs de lampes de luminothérapie"
                 ], 
                 "achievement": [
-                    "Création d'une fause campagne B2B sur la luminothérapie et le bien-être en entreprise",
+                    "Création d'une fausse campagne B2B sur la luminothérapie et le bien-être en entreprise",
                     "Pitch devant des investisseurs"
                 ]
             }
@@ -360,7 +360,7 @@
             "pokemon": {
                 "name": "Jeu de carte Pokemon",
                 "duration":1,
-                "description": "Jeu de carte Pokemon créé au début de la formation IronHack. Pour jouer vous devez piocher 5 cartes puis cliquer sur start pour commencer le jeu et jouez avec les flèches du clavier. le site internet n'est pas responsive, C'est mieux de l'essayer sur PC ou sur Mac. J'ai créé ce jeu car j'aime bien les pokemon et je trouvais ça sympa de faire un jeu de carte simple. C'est une application uniquement Front-End",
+                "description": "Jeu de carte Pokemon créé au début de la formation IronHack. Pour jouer vous devez piocher 5 cartes puis cliquer sur start pour commencer le jeu et jouer avec les flèches du clavier. le site internet n'est pas responsive, C'est mieux de l'essayer sur PC ou sur Mac. J'ai créé ce jeu car j'aime bien les pokemons et je trouvais ça sympa de faire un jeu de cartes simple. C'est une application uniquement Front-End",
                 "language": "JavaScript, ES6",
                 "frontEnd": ["VanillaJS"],
                 "backEnd": ["No Backend"],
@@ -370,7 +370,7 @@
             "trip": {
                 "name": "Trip & Karmeliet",
                 "duration":1,
-                "description": "Application Full-stack. C'était mon projet final de la formation à Ironhack. L'idée était de créer une plateforme d'organisation de voyage et de gestion de son emploi du temps. Sur l'application vous pouvez choisir une destination, ce que vous voulez y faire (points d'intérêts et activités), à quel prix et quand. Le nom est inspiré de la bière Triple Karmeliet. J'ai créé cette application basé sur une idée que je voulais développer après avoir travailler chez TourScanner il y a 2 ans. Je pense que ca pourrait être un bon outil a ajouté à leur site internet dans le futur. L'application n'est pas reponsive. Pour l'utiliser vous devez vous créer un compte un compte. Le mot de passe est crypté.",
+                "description": "Application Full-stack. C'était mon projet final de la formation à Ironhack. L'idée était de créer une plateforme d'organisation de voyages et de gestion de son emploi du temps. Sur l'application vous pouvez choisir une destination, ce que vous voulez y faire (points d'intérêts et activités), à quel prix et quand. Le nom est inspiré de la bière Triple Karmeliet. J'ai créé cette application basée sur une idée que je voulais développer après avoir travaillé chez TourScanner il y a 2 ans. Je pense que ca pourrait être un bon outil à ajouter à leur site internet dans le futur. L'application n'est pas reponsive. Pour l'utiliser vous devez vous créer un compte. Le mot de passe est crypté.",
                 "language": "JavaScript, ES6",
                 "frontEnd": ["React.js", "Material UI", "MapBox", "react-router-dom", "react-DnD"],
                 "backEnd": ["Node.js", "mongoDB", "mongoose", "express.js", "axios", "OpenTripMap API", "Amadeus API"],
